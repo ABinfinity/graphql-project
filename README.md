@@ -16,6 +16,6 @@ This image illustrates a GraphQL query being executed, showcasing the request se
 
 ### H2 Database Query (Browser)
 
-This image exhibits a query executed on the H2 database, accessed through a web browser. It shows the database interface in the browser, displaying tables, query results, and potentially other database management features.
+[[Localhost Link](http://localhost:8009/h2-console/)] This image exhibits a query executed on the H2 database, accessed through a web browser. It shows the database interface in the browser, displaying tables, query results, and potentially other database management features.
 
 ![H2 Database Query](https://raw.githubusercontent.com/ABinfinity/graphql-project/master/src/main/resources/static/3.png)
